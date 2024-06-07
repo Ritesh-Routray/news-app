@@ -1,0 +1,40 @@
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.head{
+    text-align: center;
+    text-decoration: solid black;
+    font-size: 30px;
+    background-color:grey;
+}
+
+.get{
+    text-align: center;
+    text-decoration: solid black;
+    font-size: 50px;
+}
+
+.carousel-caption {
+    position: relative;
+    padding: 3rem;
+    background-color: rgba(0, 0, 0, 0.2);
+    color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+
+  }
+
+  .carousel-item img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .carousel-item {
+    min-height: 300px;
+  }
